@@ -1,4 +1,4 @@
-# bash-script
+# shell-script-exercises
 ## various shell bash script projects
 
 ### add-local-linux-users
